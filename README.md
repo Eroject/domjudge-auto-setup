@@ -1,0 +1,1 @@
+# domjudge-auto-setup
